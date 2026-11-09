@@ -1,0 +1,5 @@
+data/raw/
+data/cleaned_full_local.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
